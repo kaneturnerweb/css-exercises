@@ -1,0 +1,19 @@
+.pink-background {
+    background-color: rgb(212, 85, 85);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#first-id {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.new-fontsize {
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: rgb(145, 255, 123);
+    font-size: 24px;
+    font-weight: bold;
+}
